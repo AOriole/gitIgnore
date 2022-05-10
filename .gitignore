@@ -1,0 +1,9 @@
+# this is a comment, sensitive files to be ignored
+
+#  Git ignore Rules: 
+# 1.  Comments start with hash #
+# 2. Wildcards *, i.e. if u wirte (*.txt) it means when u commit projec all the files with .txt extension will be ignored 
+# 3. Add individaul files (with exact fileName & extension) on every new line that need to be ignored 
+
+.DS_Store
+secrets.txt
