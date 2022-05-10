@@ -5,5 +5,9 @@
 # 2. Wildcards *, i.e. if u wirte (*.txt) it means when u commit projec all the files with .txt extension will be ignored 
 # 3. Add individaul files (with exact fileName & extension) on every new line that need to be ignored 
 
+
+# ignore these file on commit:-
+
+#project wide
 .DS_Store
 secrets.txt
